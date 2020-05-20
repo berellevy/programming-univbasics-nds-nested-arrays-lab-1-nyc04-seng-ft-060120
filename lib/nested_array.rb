@@ -35,13 +35,13 @@ def sorted_matrix
     ],
     [
       "Asparagus",
-      "Avocados",
+      "Avocadoes",
       "Grapes",
       "Potatoes",
       "Strawberries"
     ]
   ]
-  
+
   # Using Array literal syntax only, build another nested array that
   # uses the arrays of conventional and organic produce as before.
   # However, this time, sort each internal array alphabetically by the first character
